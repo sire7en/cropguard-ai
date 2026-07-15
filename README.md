@@ -107,6 +107,7 @@ Mendeley Data — DOI: [10.17632/tywbtsjrjv.1](https://data.mendeley.com/dataset
 - [ ] Real Ghanaian field-condition test set
 - [ ] Persistent database backend for longitudinal disease tracking
 
+---
 ## Disclaimer
 
 CropGuard AI is intended as a decision-support tool and should not replace advice from qualified agricultural extension officers. Predictions should be verified before treatment decisions are made.
