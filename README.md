@@ -2,8 +2,6 @@
 
 A deep learning web application that detects tomato leaf diseases from a smartphone photo and provides instant treatment recommendations for farmers.
 
-Try it here: https://cropguard-api.streamlit.app/
-
 ---
 
 ## What it does
@@ -68,19 +66,23 @@ Mendeley Data — DOI: [10.17632/tywbtsjrjv.1](https://data.mendeley.com/dataset
 
 ## Run Locally
 
-### Clone the repository
-git clone https://github.com/YOUR_USERNAME/cropguard-ai.git
-cd cropguard
+#### Clone the repository
+- git clone https://github.com/sire7en/cropguard-ai.git
+- cd cropguard
 
-### Create and activate environment
-conda create -n cropguard python=3.11
-conda activate cropguard
+#### Create and activate environment
+- conda create -n cropguard python=3.11
+- conda activate cropguard
 
-### Install dependencies
-pip install -r requirements.txt
+#### Install dependencies
+- pip install -r requirements.txt
 
-### Run the app
-streamlit run app.py
+#### Run the app
+- streamlit run app.py
+
+---
+## Live demo
+#### Try it here: https://cropguard-api.streamlit.app/
 
 ---
 
