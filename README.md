@@ -2,6 +2,8 @@
 
 A deep learning web application that detects tomato leaf diseases from a smartphone photo and provides instant treatment recommendations for farmers.
 
+Try it here: https://cropguard-api.streamlit.app/
+
 ---
 
 ## What it does
