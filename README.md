@@ -1,7 +1,6 @@
 # CropGuard AI — Tomato Disease Detection
 
 CropGuard AI is a deep learning web application that detects tomato leaf diseases from uploaded or captured leaf images and provides confidence scores, severity assessments, and treatment recommendations.
-###### Built with Streamlit and deployed on Streamlit Community Cloud.
 
 ---
 
